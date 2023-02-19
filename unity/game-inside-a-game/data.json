@@ -1,0 +1,9 @@
+{
+  "dataUrl": "webv0_2d.data",
+  "frameworkUrl": "webv0_2d.framework.js",
+  "codeUrl": "webv0_2d.wasm",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "Sam Hogan",
+  "productName": "Game Inside a Game",
+  "productVersion": "0.2"
+}

@@ -1,0 +1,9 @@
+{
+  "dataUrl":"data.unityweb",
+  "frameworkUrl":"framework.unityweb",
+  "codeUrl":"code.unityweb",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "DefaultCompany",
+  "productName": "Slope 2 Player",
+  "productVersion": "1"
+}

@@ -1,0 +1,9 @@
+{
+  "dataUrl":"data.unityweb",
+  "frameworkUrl":"framework.unityweb",
+  "codeUrl":"code.unityweb",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "GoGoMan",
+  "productName": "Time Shooter 2",
+  "productVersion": "0.1"
+}
