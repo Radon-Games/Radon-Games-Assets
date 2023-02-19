@@ -1,0 +1,11 @@
+
+{
+"TOTAL_MEMORY": 1073741824,
+"dataUrl": "https://cdn.weblfg.com/static/unity/dh/dh.data.unityweb",
+"asmCodeUrl": "code.unityweb",
+"asmMemoryUrl": "memory.unityweb",
+"asmFrameworkUrl": "framework.unityweb",
+"backgroundUrl": "",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#111111"
+}
